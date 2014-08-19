@@ -7,9 +7,8 @@ So without further ado, I present my list of programming practices that I desire
 
 1. Regex.  (I know the basics, but need to dig deeper)
 2. Postgres tuning and performance
+3. CSS Animations (Get beyond simple transitions and basic keyframes)
 3. Big Data (hadoop)
 3. Golang
 4. Native Android (Java)
 5. Native iOS (Swift)
-
-In short, rtfm.
